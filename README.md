@@ -1,6 +1,6 @@
 # Welcome to How to Learn to Code!!
 
-Class taught by Sara Peterson, Justin Landis, & Madeline Gillman in July 2024 
+Class taught by Sara Peterson, Justin Landis, & Madeline Gillman in July 2024 at UNC
 
 We are an organization that hopes to make learning to program approachable, accessible, and effective. We want to improve rigor and reproducibility in science by providing programming resources and experiences to scientists and professionals in all levels of their careers. Our classes are small-group based courses with a teacher:student ratio that allows the students to learn dynamically and independently. During classes, students are able to follow along with the teacher leading the instruction, or work with one of our floating teachers to troubleshoot or to better understand their own code.
 
